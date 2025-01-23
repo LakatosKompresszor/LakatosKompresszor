@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @LakatosKompresszor
+- 👀 I’m interested in Girls
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m currently collaborating with @HTaamas
+- 😄 Pronouns: Walmart/Bag
+- ⚡ Fun fact: How much wood would the woodchuck chuck if a woodchuck could chuck wood?
