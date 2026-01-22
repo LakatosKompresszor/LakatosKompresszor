@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LakatosKompresszor
-- 👀 I’m interested in Girls
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m currently working with @HTaamas
 - 😄 Pronouns: Walmart/Bag
